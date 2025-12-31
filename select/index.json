@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハルダチ",
+  "base_artist": "shino",
+  "createdAt": "2025-12-31T13:47:00.991955Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルダチ",
+      "artist": "shino",
+      "has_synced": false,
+      "path": "select/pl_01_ハルダチ_shino.txt"
+    }
+  ]
+}
